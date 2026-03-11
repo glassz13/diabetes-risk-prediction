@@ -94,16 +94,16 @@ Logistic Regression was preferred for its balance of recall performance and inte
 ## Visualizations
 
 **Class Distribution**
-![class_distribution](outputs/class_distribution.png)
+![class_distribution](resources/class_distribution.png)
 
 **Precision–Recall Tradeoff**
-![precision_recall](outputs/precision_recall.png)
+![precision_recall](resources/precision_recall.png)
 
 **ROC Curve**
-![roc_curve](outputs/roc_curve.png)
+![roc_curve](resources/roc_curve.png)
 
 **Top Risk Factors (Logistic Regression)**
-![feature_importance](outputs/feature_importance.png)
+![feature_importance](resources/feature_importance.png)
 
 ---
 
